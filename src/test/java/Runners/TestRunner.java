@@ -12,8 +12,8 @@ import org.junit.runner.RunWith;
         glue = "StepDefinitions",
         dryRun = false,
         strict = true,
-        plugin = "pretty"
-       // tags = "@wip"
+        plugin = "pretty",
+       tags = "@wip"
 
 
 
