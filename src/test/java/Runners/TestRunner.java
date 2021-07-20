@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         dryRun = false,
         strict = true,
         plugin = "pretty",
-       tags = "@wip"
+       //tags = "@wip"
 
 
 
